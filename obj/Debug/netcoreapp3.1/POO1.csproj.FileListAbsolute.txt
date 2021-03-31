@@ -1,0 +1,13 @@
+C:\repo\POO1\bin\Debug\netcoreapp3.1\POO1.exe
+C:\repo\POO1\bin\Debug\netcoreapp3.1\POO1.deps.json
+C:\repo\POO1\bin\Debug\netcoreapp3.1\POO1.runtimeconfig.json
+C:\repo\POO1\bin\Debug\netcoreapp3.1\POO1.runtimeconfig.dev.json
+C:\repo\POO1\bin\Debug\netcoreapp3.1\POO1.dll
+C:\repo\POO1\bin\Debug\netcoreapp3.1\POO1.pdb
+C:\repo\POO1\obj\Debug\netcoreapp3.1\POO1.csprojAssemblyReference.cache
+C:\repo\POO1\obj\Debug\netcoreapp3.1\POO1.AssemblyInfoInputs.cache
+C:\repo\POO1\obj\Debug\netcoreapp3.1\POO1.AssemblyInfo.cs
+C:\repo\POO1\obj\Debug\netcoreapp3.1\POO1.csproj.CoreCompileInputs.cache
+C:\repo\POO1\obj\Debug\netcoreapp3.1\POO1.dll
+C:\repo\POO1\obj\Debug\netcoreapp3.1\POO1.pdb
+C:\repo\POO1\obj\Debug\netcoreapp3.1\POO1.genruntimeconfig.cache
