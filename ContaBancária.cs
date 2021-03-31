@@ -6,10 +6,10 @@ namespace POO1
 {
     class ContaBancária
     {
-        public string Agência;
-        public string Conta;
-        public string Nome;
-        private string Senha = "024680";
+        public string Agência { get; set; }
+        public string Conta { get; set; }
+        public string Nome { get; set; }
+        public string Senha { private get; set; }
         private int Saldo;
         
         public ContaBancária(int saldo)
