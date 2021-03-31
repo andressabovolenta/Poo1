@@ -11,7 +11,7 @@ namespace POO1
             contaBancária.Agência = "0123";
             contaBancária.Conta = "456789-0";
             contaBancária.Nome = "Andressa Bovolenta";
-            contaBancária.Senha = "098765"
+            contaBancária.Senha = "098765";
 
             contaBancária.ImprimirSaldo();
 
